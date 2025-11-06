@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Onest-Bold.ttf",
+      "sha1": "c7e4a690aa8f7061aff8a01db173c0fc662ba9ec"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Onest-Light.ttf",
+      "sha1": "901975faac62c98c1e5b7f88578e20eb74a358c7"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Onest-Regular.ttf",
+      "sha1": "d7c2a9d55e1e32428505d8d94d3027bd5d121cb7"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Onest-SemiBold.ttf",
+      "sha1": "e37d9d95ce73c21bd85946417f3192d77d282307"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/Roboto-Bold.ttf",
+      "sha1": "508c35dee818addce6cc6d1fb6e42f039da5a7cf"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "SkylineBritainUegasSrc/SkylineBritainUegasAssets/SkylineBritainUegasFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
